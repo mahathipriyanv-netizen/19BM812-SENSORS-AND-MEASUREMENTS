@@ -57,7 +57,7 @@ Draw the graph of Thermometer reading Vs meter reading.
 
 
 # GRAPH:
-
+<img width="792" height="1008" alt="image" src="https://github.com/user-attachments/assets/c2301846-09a3-4b54-838c-f49b499ac971" />
 
 # RESULT
 The temperature is measured using thermocouple.
