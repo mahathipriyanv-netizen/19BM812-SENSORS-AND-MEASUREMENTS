@@ -3,7 +3,7 @@
 
 # a) MEASUREMENT OF RESISTANCE USING KELVIN’S DOUBLE BRIDGE
 # AIM
-To measure unknown value of low resistance by balancing the Kelvin’s double bridge.
+To measure unknown value of low resistance by balancing the Kelvin’s double bridge. 
 
 # APPARATUS REQUIRED 
 
